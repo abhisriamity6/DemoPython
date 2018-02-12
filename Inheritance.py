@@ -24,7 +24,7 @@ class Parent:
 class Child(Parent):
     
     def __init__(self):
-        print("Inside Child Constructure Hello")
+        print("Inside Child Constructure Hello world")
         
     
     def ChildMethod(self):
